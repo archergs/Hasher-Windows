@@ -159,41 +159,41 @@
             // md5Output
             // 
             this.md5Output.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.md5Output.Font = new System.Drawing.Font("Lucida Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.md5Output.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.md5Output.Location = new System.Drawing.Point(140, 56);
             this.md5Output.Name = "md5Output";
             this.md5Output.ReadOnly = true;
-            this.md5Output.Size = new System.Drawing.Size(563, 23);
+            this.md5Output.Size = new System.Drawing.Size(563, 22);
             this.md5Output.TabIndex = 6;
             // 
             // sha1Output
             // 
             this.sha1Output.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.sha1Output.Font = new System.Drawing.Font("Lucida Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sha1Output.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sha1Output.Location = new System.Drawing.Point(140, 91);
             this.sha1Output.Name = "sha1Output";
             this.sha1Output.ReadOnly = true;
-            this.sha1Output.Size = new System.Drawing.Size(563, 23);
+            this.sha1Output.Size = new System.Drawing.Size(563, 22);
             this.sha1Output.TabIndex = 7;
             // 
             // sha256Output
             // 
             this.sha256Output.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.sha256Output.Font = new System.Drawing.Font("Lucida Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sha256Output.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sha256Output.Location = new System.Drawing.Point(140, 126);
             this.sha256Output.Name = "sha256Output";
             this.sha256Output.ReadOnly = true;
-            this.sha256Output.Size = new System.Drawing.Size(563, 23);
+            this.sha256Output.Size = new System.Drawing.Size(563, 22);
             this.sha256Output.TabIndex = 8;
             // 
             // sha512Output
             // 
             this.sha512Output.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.sha512Output.Font = new System.Drawing.Font("Lucida Sans", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sha512Output.Font = new System.Drawing.Font("Lucida Sans", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sha512Output.Location = new System.Drawing.Point(140, 161);
             this.sha512Output.Name = "sha512Output";
             this.sha512Output.ReadOnly = true;
-            this.sha512Output.Size = new System.Drawing.Size(563, 23);
+            this.sha512Output.Size = new System.Drawing.Size(563, 22);
             this.sha512Output.TabIndex = 9;
             // 
             // button1
